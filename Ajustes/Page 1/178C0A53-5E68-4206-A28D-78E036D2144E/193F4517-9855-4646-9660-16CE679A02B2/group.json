@@ -1,0 +1,55 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "193F4517-9855-4646-9660-16CE679A02B2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3BD4AE89-CE9E-4A95-A845-4F58C1F0FC29",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8AD3A413-2B40-43AB-AB85-F10D7AC67898",
+    "height": 38,
+    "width": 100,
+    "x": 670,
+    "y": 13
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "ADA24EC2-78C9-4743-8700-872AC0670597"
+    },
+    {
+      "class": "group",
+      "id": "C1935DA6-6A64-414A-931E-14BE6968966B"
+    }
+  ],
+  "name": "gameif-d",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8B90EB37-FE12-485A-B3AD-E389EEF5AAF2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

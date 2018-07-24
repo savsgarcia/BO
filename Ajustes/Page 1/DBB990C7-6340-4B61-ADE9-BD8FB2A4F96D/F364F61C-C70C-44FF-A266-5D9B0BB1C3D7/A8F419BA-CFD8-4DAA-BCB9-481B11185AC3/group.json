@@ -1,0 +1,72 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "A8F419BA-CFD8-4DAA-BCB9-481B11185AC3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 49,
+    "width": 163,
+    "x": 185,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "45CFC0F2-4B6B-45F2-8207-8500ED4C2309"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6D5CEF5F-B51C-4A31-BFB0-F2DA342F293D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EF6F8537-E778-40C3-8C55-D29EAE8C62E9"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5B86351D-EE5A-440C-BF8B-FC58AD20A60B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A95F6424-B20C-49EF-818D-0E72A5334893"
+    },
+    {
+      "class": "group",
+      "id": "359DD4CA-0604-461E-A2AF-2B5D0E050AF0"
+    },
+    {
+      "class": "group",
+      "id": "680100CC-9ABE-4DDF-96D9-9D82B375F356"
+    }
+  ],
+  "name": "download-on-the-app-store-apple",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

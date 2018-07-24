@@ -1,0 +1,145 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9803921568627451,
+    "do_objectID": "FE9127A2-56A4-4C64-BB59-84C93C9D8C67",
+    "green": 0.9725490196078431,
+    "red": 0.9607843137254902
+  },
+  "booleanOperation": -1,
+  "do_objectID": "DEFD9BB0-B8D4-403D-A05D-B34920943328",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "66F28287-3FC5-4FFC-B2D0-FE45DEC407D3",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0A239404-C4BC-42BE-8BA5-5505DEEC1DD4",
+    "height": 1024,
+    "width": 1440,
+    "x": 2149,
+    "y": 5740
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "E28272E3-0495-402F-8951-722115BAA2C0",
+    "gridSize": 8,
+    "isEnabled": false,
+    "thickGridTimes": 8
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "B7F1FDF7-D99E-468F-B5C8-78CF0FA03380",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "E988A08D-FDE6-493C-B796-89A503ED0ADD"
+    },
+    {
+      "class": "group",
+      "id": "8EBDD2E9-7119-49E4-8FAC-8599C44D8FAA"
+    },
+    {
+      "class": "group",
+      "id": "87E45704-F2A4-45F7-BA07-B5FB6FDB35F0"
+    },
+    {
+      "class": "text",
+      "id": "B544CB68-11C2-417F-A915-307E746F44F0"
+    },
+    {
+      "class": "text",
+      "id": "5F85AEF7-CD72-483F-A111-2B1594740EBB"
+    },
+    {
+      "class": "group",
+      "id": "51AA18B9-BED4-4512-821B-41D63B11EBFF"
+    },
+    {
+      "class": "text",
+      "id": "574D1D32-05B6-4E0F-9654-F64BE31FDA8B"
+    },
+    {
+      "class": "group",
+      "id": "100E03FD-7265-4087-BA8F-58AE9372A67E"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 60,
+    "do_objectID": "5287DC85-A61D-48B4-833D-518881265C92",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 20,
+    "guttersOutside": true,
+    "horizontalOffset": 240,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 960
+  },
+  "name": "Link Caducado",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop HD",
+    "offersLandscapeVariant": 0,
+    "width": 1440
+  },
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A1D60FB7-7CE9-4E07-B29B-EB6248D6228A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "C029E87F-D17D-408F-8693-C1543FD56906",
+    "guides": [
+    ]
+  }
+}

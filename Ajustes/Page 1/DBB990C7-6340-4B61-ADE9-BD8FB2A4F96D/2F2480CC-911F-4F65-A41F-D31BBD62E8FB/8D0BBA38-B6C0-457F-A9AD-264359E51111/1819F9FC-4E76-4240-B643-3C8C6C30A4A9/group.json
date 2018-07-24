@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "1819F9FC-4E76-4240-B643-3C8C6C30A4A9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BA4822B3-5F5F-4E7A-9C3A-3A51B6C45B03",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0CDFBFD8-5890-49AA-BEF8-366C0DD38ABF",
+    "height": 19,
+    "width": 22,
+    "x": 1400.099999999997,
+    "y": 67.23611111111126
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "C2ED095A-2EA8-40B3-87A9-8F682B7B65B2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B7551A43-AF18-4250-BB04-98A8B794C28F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9E815064-7B6B-4019-B5F5-483CAD6E0095"
+    }
+  ],
+  "name": "Hamburger",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B7EBC29C-CF1B-4D06-A618-17B996720390",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

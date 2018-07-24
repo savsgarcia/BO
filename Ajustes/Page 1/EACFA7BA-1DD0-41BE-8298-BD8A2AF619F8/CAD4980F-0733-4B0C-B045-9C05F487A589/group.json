@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "CAD4980F-0733-4B0C-B045-9C05F487A589",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E3E84A5D-1972-4ECD-9F20-051A42414499",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FE1FCBB4-B8A8-4A4F-9834-4030240E5206",
+    "height": 59,
+    "width": 163,
+    "x": 639,
+    "y": 192
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "91955E53-FA1E-4216-9A55-A321EFE593B0"
+    },
+    {
+      "class": "group",
+      "id": "02D26334-3635-4828-9C5E-2ED2C696B172"
+    },
+    {
+      "class": "group",
+      "id": "F4781F34-ED92-40DA-BD62-93F6ACF24295"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "296F67D4-7D7D-4F72-9069-E7B066299DE0"
+    }
+  ],
+  "name": "gameif",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8703EF1A-EC42-433A-8640-7D38E59A3AE2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
