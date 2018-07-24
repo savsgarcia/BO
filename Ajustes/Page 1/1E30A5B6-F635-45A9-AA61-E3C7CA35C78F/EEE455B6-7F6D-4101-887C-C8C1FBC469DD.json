@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Rubik-Light",
+              "name": "BentonSansBBVA-Book",
               "size": 16
             }
           },
@@ -53,11 +53,11 @@
     "constrainProportions": false,
     "do_objectID": "54B32C1D-2C72-4D36-82D4-96817D7F6E9D",
     "height": 19,
-    "width": 166,
-    "x": 327,
+    "width": 169,
+    "x": 325.5,
     "y": 81
   },
-  "glyphBounds": "{{0, 0}, {166, 16}}",
+  "glyphBounds": "{{0, -1}, {168, 17}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -97,7 +97,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Rubik-Light",
+            "name": "BentonSansBBVA-Book",
             "size": 16
           }
         },

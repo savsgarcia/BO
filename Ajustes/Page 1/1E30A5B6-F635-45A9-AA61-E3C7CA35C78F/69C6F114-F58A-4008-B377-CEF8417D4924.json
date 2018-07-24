@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Rubik-Medium",
+              "name": "Rubik-Regular",
               "size": 20
             }
           },
@@ -58,7 +58,7 @@
     "x": 330,
     "y": 144
   },
-  "glyphBounds": "{{0, 1}, {252, 19}}",
+  "glyphBounds": "{{0, 1}, {244, 19}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -90,7 +90,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Rubik-Medium",
+            "name": "Rubik-Regular",
             "size": 20
           }
         },
