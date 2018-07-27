@@ -16,15 +16,17 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Rubik-Regular",
-              "size": 14
+              "name": "Rubik-Light",
+              "size": 16
             }
           },
           "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
-            "allowsDefaultTighteningForTruncation": 0
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 24,
+            "minimumLineHeight": 24
           },
           "textStyleVerticalAlignmentKey": 0
         },
@@ -52,12 +54,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "C2564B71-DC73-4262-9221-3512EDEFF7C5",
-    "height": 17,
+    "height": 24,
     "width": 200,
     "x": 568,
     "y": 544
   },
-  "glyphBounds": "{{0, 2}, {141, 12}}",
+  "glyphBounds": "{{1, 5}, {154, 13}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -91,15 +93,17 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Rubik-Regular",
-            "size": 14
+            "name": "Rubik-Light",
+            "size": 16
           }
         },
         "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,
-          "allowsDefaultTighteningForTruncation": 0
+          "allowsDefaultTighteningForTruncation": 0,
+          "maximumLineHeight": 24,
+          "minimumLineHeight": 24
         },
         "textStyleVerticalAlignmentKey": 0
       },

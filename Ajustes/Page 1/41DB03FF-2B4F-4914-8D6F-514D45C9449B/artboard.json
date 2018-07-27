@@ -36,7 +36,7 @@
     "height": 1024,
     "width": 1440,
     "x": 2149,
-    "y": 2008
+    "y": 1933
   },
   "grid": {
     "_class": "simpleGrid",
@@ -64,10 +64,6 @@
   "isVisible": true,
   "layerListExpandedType": 2,
   "layers": [
-    {
-      "class": "group",
-      "id": "F39FF7BC-A490-4D95-A4AC-A622DA4BC47A"
-    },
     {
       "class": "shapeGroup",
       "id": "DB332384-F786-4BF0-B8FE-089D3C24D725"
@@ -98,7 +94,7 @@
     },
     {
       "class": "group",
-      "id": "C2D8CDD5-F84E-4E76-84F4-B43C8CC78092"
+      "id": "95D95D78-0F05-4D23-9A01-BEA49A02BB29"
     },
     {
       "class": "text",
@@ -109,8 +105,8 @@
       "id": "9FD0138E-C2DF-4CD1-920D-63258BE36DC8"
     },
     {
-      "class": "group",
-      "id": "D8D221C5-B708-453B-B4D9-0C0C0E8660C4"
+      "class": "symbolInstance",
+      "id": "9DC689A8-CBC9-4BDB-BC7C-1BB6999B5755"
     }
   ],
   "layout": {

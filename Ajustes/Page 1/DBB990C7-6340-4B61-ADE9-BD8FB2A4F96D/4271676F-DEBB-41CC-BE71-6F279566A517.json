@@ -1,0 +1,59 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "4271676F-DEBB-41CC-BE71-6F279566A517",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "15E6E9EF-6952-4399-8491-A82EB53933EF",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "21B4339F-AF28-4211-A2FA-6F3103C0D9E9",
+    "height": 112,
+    "width": 112,
+    "x": 664,
+    "y": 248
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "svg/password",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "03A58A51-25EB-4CCE-A5B5-1EFFA67D298D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "BA33AD1B-8EE5-4095-B33A-2DEC6189B7DC",
+  "verticalSpacing": 0
+}

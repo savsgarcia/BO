@@ -76,10 +76,10 @@
     "do_objectID": "A7A53232-2B74-4198-8D92-D0D448D5457C",
     "endMarkerType": 0,
     "miterLimit": 10,
+    "sharedObjectID": "88DBA871-BE36-4203-B188-0BF73F9C246F",
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "7C50A4BA-6596-407B-95CD-6D320ADB4875",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",

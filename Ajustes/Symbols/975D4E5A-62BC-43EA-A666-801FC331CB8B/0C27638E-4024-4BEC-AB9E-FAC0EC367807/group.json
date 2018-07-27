@@ -1,0 +1,52 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "0C27638E-4024-4BEC-AB9E-FAC0EC367807",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 38,
+    "width": 100,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "1F6826CF-AB01-4DAD-B50C-7BBF8D8E7865"
+    },
+    {
+      "class": "group",
+      "id": "883F04CF-E65C-471E-86E2-A6A3B1AC8F22"
+    }
+  ],
+  "name": "gameif-d",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "B1E35122-CD5D-4529-8EB1-2BE2EBCEAA55",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1FF2C42E-01DB-4B41-BF38-4D982E22FABB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F68A5DEA-B69B-4E31-BCE5-E6F0A8D944B2",
+    "height": 71,
+    "width": 192,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "svg/logo",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AA218A22-6BB2-4F64-84CD-F23B3F8848EE",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "8EDE82B3-5FC3-4782-80AB-00E533B16561",
+  "verticalSpacing": 0
+}

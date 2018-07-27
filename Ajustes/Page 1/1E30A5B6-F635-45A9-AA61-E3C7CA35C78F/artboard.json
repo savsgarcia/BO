@@ -15,7 +15,7 @@
       {
         "_class": "exportFormat",
         "absoluteSize": 0,
-        "fileFormat": "png",
+        "fileFormat": "svg",
         "name": "",
         "namingScheme": 0,
         "scale": 1,
@@ -65,10 +65,6 @@
     },
     {
       "class": "shapeGroup",
-      "id": "C53C966F-7D22-473F-A787-7FEA4EACE675"
-    },
-    {
-      "class": "shapeGroup",
       "id": "43D01549-1D20-4CA0-AF59-0519B50A1465"
     },
     {
@@ -78,10 +74,6 @@
     {
       "class": "text",
       "id": "6E087E04-A7F3-4581-9BB9-DA694D0FBACE"
-    },
-    {
-      "class": "group",
-      "id": "71724ACE-7D59-42D2-A215-30947607E2FD"
     },
     {
       "class": "shapeGroup",
@@ -117,7 +109,7 @@
     },
     {
       "class": "group",
-      "id": "049F954A-C1D0-469C-A160-11D218BF0933"
+      "id": "FE51BDDA-0EFB-4D0B-8C8B-A825592B0721"
     },
     {
       "class": "text",
@@ -136,8 +128,8 @@
       "id": "1020BC48-DB0B-4EF4-9128-3560EFB69672"
     },
     {
-      "class": "group",
-      "id": "0C27638E-4024-4BEC-AB9E-FAC0EC367807"
+      "class": "symbolInstance",
+      "id": "3FE01192-EF8A-4D70-8A9A-91335C675D01"
     }
   ],
   "layout": {

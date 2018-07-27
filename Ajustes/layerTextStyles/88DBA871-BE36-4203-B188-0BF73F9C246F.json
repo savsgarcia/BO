@@ -1,0 +1,40 @@
+{
+  "_class": "sharedStyle",
+  "do_objectID": "88DBA871-BE36-4203-B188-0BF73F9C246F",
+  "name": "SubHeading",
+  "value": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "sharedObjectID": "88DBA871-BE36-4203-B188-0BF73F9C246F",
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.5554581207482994,
+          "green": 0.4942480975737334,
+          "red": 0.3616263806955075
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "Rubik-Regular",
+            "size": 16
+          }
+        },
+        "kerning": 0,
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 2,
+          "allowsDefaultTighteningForTruncation": 0
+        },
+        "textStyleVerticalAlignmentKey": 0
+      },
+      "verticalAlignment": 1
+    },
+    "windingRule": 1
+  }
+}

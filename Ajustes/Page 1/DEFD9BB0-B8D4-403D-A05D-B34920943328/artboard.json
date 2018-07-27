@@ -36,7 +36,7 @@
     "height": 1024,
     "width": 1440,
     "x": 2149,
-    "y": 5740
+    "y": 5619
   },
   "grid": {
     "_class": "simpleGrid",
@@ -46,7 +46,7 @@
     "thickGridTimes": 8
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -65,18 +65,6 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "E988A08D-FDE6-493C-B796-89A503ED0ADD"
-    },
-    {
-      "class": "group",
-      "id": "8EBDD2E9-7119-49E4-8FAC-8599C44D8FAA"
-    },
-    {
-      "class": "group",
-      "id": "87E45704-F2A4-45F7-BA07-B5FB6FDB35F0"
-    },
-    {
       "class": "text",
       "id": "B544CB68-11C2-417F-A915-307E746F44F0"
     },
@@ -86,7 +74,7 @@
     },
     {
       "class": "group",
-      "id": "51AA18B9-BED4-4512-821B-41D63B11EBFF"
+      "id": "C2417410-C472-452B-A363-78785E86A8B1"
     },
     {
       "class": "text",
