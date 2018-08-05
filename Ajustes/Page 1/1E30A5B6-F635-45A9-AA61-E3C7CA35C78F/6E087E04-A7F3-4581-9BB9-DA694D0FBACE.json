@@ -9,9 +9,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.6688988095238095,
-            "green": 0.6440826436875213,
-            "red": 0.5903142843755637
+            "blue": 0.05163159013605442,
+            "green": 0.04552170198710391,
+            "red": 0.04391659519266592
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -84,9 +84,9 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.6688988095238095,
-          "green": 0.6440826436875213,
-          "red": 0.5903142843755637
+          "blue": 0.05163159013605442,
+          "green": 0.04552170198710391,
+          "red": 0.04391659519266592
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",

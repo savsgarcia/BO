@@ -20,7 +20,7 @@
     "height": 209,
     "width": 258,
     "x": 271,
-    "y": 1063
+    "y": 1155
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -68,9 +68,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 1,
-          "green": 1,
-          "red": 1
+          "blue": 0.9764705882352941,
+          "green": 0.9764705882352941,
+          "red": 0.9764705882352941
         },
         "fillType": 0,
         "isEnabled": true,

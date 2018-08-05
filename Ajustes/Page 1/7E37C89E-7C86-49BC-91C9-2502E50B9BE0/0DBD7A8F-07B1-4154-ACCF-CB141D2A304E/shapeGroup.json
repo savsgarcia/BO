@@ -18,9 +18,9 @@
     "constrainProportions": false,
     "do_objectID": "AF19083B-770C-43D1-9D7C-4654D9D6B807",
     "height": 275,
-    "width": 353,
-    "x": 591,
-    "y": 1151
+    "width": 344,
+    "x": 583,
+    "y": 1136
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -29,7 +29,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "rectangle",
@@ -68,9 +68,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 1,
-          "green": 1,
-          "red": 1
+          "blue": 0.9764705882352941,
+          "green": 0.9764705882352941,
+          "red": 0.9764705882352941
         },
         "fillType": 0,
         "isEnabled": true,

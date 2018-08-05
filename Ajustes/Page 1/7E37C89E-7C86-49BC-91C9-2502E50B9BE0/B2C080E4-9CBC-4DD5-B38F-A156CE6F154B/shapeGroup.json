@@ -19,8 +19,8 @@
     "do_objectID": "8736FCA5-29AA-4267-9EB3-5BC4D88C6C8B",
     "height": 27,
     "width": 27,
-    "x": 593,
-    "y": 601
+    "x": 583,
+    "y": 592
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -68,9 +68,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 1,
-          "green": 1,
-          "red": 1
+          "blue": 0.9764705882352941,
+          "green": 0.9764705882352941,
+          "red": 0.9764705882352941
         },
         "fillType": 0,
         "isEnabled": true,

@@ -9,9 +9,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.02683886054421769,
-            "green": 0.02683886054421769,
-            "red": 0.02683886054421769
+            "blue": 0.05163159013605442,
+            "green": 0.04552170198710391,
+            "red": 0.04391659519266592
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -23,7 +23,7 @@
           "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 2,
+            "alignment": 0,
             "allowsDefaultTighteningForTruncation": 0,
             "paragraphSpacing": 0.1000000014901161
           },
@@ -53,12 +53,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "834663D6-591A-4D82-A6F2-5139742AA002",
-    "height": 25,
-    "width": 119,
-    "x": 271,
-    "y": 389
+    "height": 31,
+    "width": 112,
+    "x": 256,
+    "y": 289
   },
-  "glyphBounds": "{{37, 2}, {44, 16}}",
+  "glyphBounds": "{{0, 2}, {44, 16}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -85,9 +85,9 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.02683886054421769,
-          "green": 0.02683886054421769,
-          "red": 0.02683886054421769
+          "blue": 0.05163159013605442,
+          "green": 0.04552170198710391,
+          "red": 0.04391659519266592
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
@@ -99,13 +99,13 @@
         "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 2,
+          "alignment": 0,
           "allowsDefaultTighteningForTruncation": 0,
           "paragraphSpacing": 0.1000000014901161
         },
         "textStyleVerticalAlignmentKey": 0
       },
-      "verticalAlignment": 0
+      "verticalAlignment": 1
     },
     "windingRule": 1
   },
