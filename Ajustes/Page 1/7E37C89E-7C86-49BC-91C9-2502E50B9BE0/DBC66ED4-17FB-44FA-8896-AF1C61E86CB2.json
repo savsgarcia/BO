@@ -9,9 +9,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.05163159013605442,
-            "green": 0.04552170198710391,
-            "red": 0.04391659519266592
+            "blue": 0.05098039215686274,
+            "green": 0.04705882352941176,
+            "red": 0.04313725490196078
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -29,11 +29,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 25,
+        "length": 26,
         "location": 0
       }
     ],
-    "string": "Categorias de conocmiento"
+    "string": "Categorias de conocimiento"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -53,12 +53,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "AF95559A-05BA-4A38-9679-90FCF5CB8D31",
-    "height": 25,
+    "height": 24,
     "width": 316,
-    "x": 618,
-    "y": 1092
+    "x": 624,
+    "y": 592
   },
-  "glyphBounds": "{{1, 5}, {235, 19}}",
+  "glyphBounds": "{{1, 5}, {240, 19}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -66,7 +66,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Categorias de conocm",
+  "name": "Categorias de conoci",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -85,9 +85,9 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.05163159013605442,
-          "green": 0.04552170198710391,
-          "red": 0.04391659519266592
+          "blue": 0.05098039215686274,
+          "green": 0.04705882352941176,
+          "red": 0.04313725490196078
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",

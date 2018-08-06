@@ -1,0 +1,68 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "4C4D9902-FDCC-499A-9519-6D9CD84814FE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 33,
+    "width": 32,
+    "x": 273,
+    "y": 891
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "64B9AD08-0473-41CB-8CEC-D5FB9F2F303A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5BCF1472-3798-46CD-88C2-FDE268512D6F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "23763571-1755-4F87-B52F-304C5FECF10A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8893E083-65F7-42D9-9BDD-504C0F8A5D5E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3BAB2581-84CA-49B3-9C0C-6409BC628404"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DAF472D6-0210-4BFB-A1CB-47CC5C0B124D"
+    }
+  ],
+  "name": "speedometer",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "09189535-571F-4B24-800C-584660CC205D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BDCFF4EF-2372-4FC3-82F8-0FA81B1758B2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5405E756-B71F-450C-A342-54129037BDFC",
+    "height": 33,
+    "width": 28,
+    "x": 256,
+    "y": 722
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Icons/Medals/1 Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "43304350-2C77-48AC-8C55-2161CDB479CF",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "5735F43D-DD94-4B4E-860B-E1DA971642B0",
+  "verticalSpacing": 0
+}
