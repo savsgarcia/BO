@@ -20,7 +20,7 @@
     "height": 39,
     "width": 582,
     "x": 577,
-    "y": 744
+    "y": 753
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -29,7 +29,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "rectangle",
@@ -55,7 +55,7 @@
           "red": 0.9660129676870748
         },
         "fillType": 0,
-        "isEnabled": true,
+        "isEnabled": false,
         "position": 1,
         "thickness": 1
       }
@@ -97,7 +97,7 @@
           "blendMode": 0,
           "opacity": 1
         },
-        "isEnabled": true,
+        "isEnabled": false,
         "offsetX": 0,
         "offsetY": 2,
         "spread": 0
